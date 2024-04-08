@@ -1,1 +1,1 @@
-# tup_prog_1_2024_guia1.2
+# Guía 1.2. Estructuras secuenciales (Guía auxiliar)
